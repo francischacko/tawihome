@@ -1,0 +1,25 @@
+Home Page
+
+Navigation Buttons Header titles - Inter - 16 pts
+
+The Tawi Experience Hero Title - DM Serif Display - 64 pts
+
+Search Bar Texts
+-> Heading (Date In) - Montserrat - 14 pts
+-> Numbers - Montserrat 16 pts
+
+Headings - Montserrat - 40 pts
+
+Body - Poppins - 18 pts
+
+Images Captions - Montserrat - 26 pts
+A Romantic Experience Body text - Poppins - 18 pts
+
+Footer
+Navigation Buttons - Inter - 18 pts
+
+Contact Info - SF Pro Display - 18 pts
+
+All rights reserved - Abel - 18 pts
+
+
